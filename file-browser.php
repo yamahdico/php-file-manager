@@ -4,7 +4,7 @@
  * https://github.com/yamahdico/php-file-manager
  */
 
-$domain = "fadak.ir"; // Needs to be changed and configured
+$domain = "jzac.ir"; // Needs to be changed and configured
 $filesInFolder = array();
 $baseDir       = "../tutorial"; // Needs to be changed and configured
 $currentDir    = !empty($_GET['dir']) ? $_GET['dir'] : $baseDir;
